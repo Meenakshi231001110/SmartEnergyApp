@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<electricity_data>
+    <record>
+        <Units_Used>100</Units_Used>
+        <Bill>500</Bill>
+    </record>
+
+    <record>
+        <Units_Used>150</Units_Used>
+        <Bill>750</Bill>
+    </record>
+
+    <record>
+        <Units_Used>200</Units_Used>
+        <Bill>1000</Bill>
+    </record>
+
+    <record>
+        <Units_Used>250</Units_Used>
+        <Bill>1250</Bill>
+    </record>
+
+    <record>
+        <Units_Used>300</Units_Used>
+        <Bill>1500</Bill>
+    </record>
+</electricity_data>
